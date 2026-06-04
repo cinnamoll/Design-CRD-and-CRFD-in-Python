@@ -1,0 +1,15 @@
+feature,importance
+total_day_minutes,0.2527466387683328
+number_customer_service_calls,0.11391328224424922
+total_eve_minutes,0.09366175560259744
+international_plan,0.07576115653729769
+total_intl_minutes,0.07336664322705566
+total_night_minutes,0.06301939545916917
+total_intl_calls,0.053999336726048
+total_day_calls,0.049084363448472196
+account_length,0.047054093510115615
+total_night_calls,0.04419109637130763
+total_eve_calls,0.04373000741470089
+number_vmail_messages,0.039645699241310665
+state,0.03814974873122111
+area_code,0.01167678271812198
